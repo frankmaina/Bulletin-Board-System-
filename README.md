@@ -9,7 +9,7 @@ Known issues
 2. Formating on the anouncement.dat file is not that good
 
 ## Version
-<h4> 1.0.0</h4>
+<h4> 1.0.0</h4> - <b>This project is however not supported</b>
  
 ## License
 
